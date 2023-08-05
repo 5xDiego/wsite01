@@ -13,10 +13,17 @@ export default function SignUpHero() {
             <h1 className="mb-5 text-5xl font-bold">Interesse geweckt?</h1>
             <p className="mb-5">
               Werde noch heute Mitglied und öffne die Türen der Selbständigkeit.
-              Schreib mir einfach ein DM auf Instagram, mehr brauchts nicht!
+              Schreib mir einfach ein Nachricht, mehr brauchts nicht!
             </p>
             <br></br>
-            <button className="btn btn-primary">Jetzt loslegen!</button>
+            <button>
+              <a href="https://wa.me/0041782580971?text=Hi%20Viktor%21%20Ich%20interessiere%20mich%20f%C3%BCr%20dein%20Business%20und%20m%C3%B6chte%20auch%20einsteigen.%20Erz%C3%A4hl%20mir%20mehr%21%20">
+                <img
+                  alt="Chat on WhatsApp"
+                  src="WhatsAppButtonGreenLarge.svg"
+                />
+              </a>
+            </button>
             <br></br>
           </div>
         </div>
