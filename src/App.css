@@ -9,9 +9,11 @@
   margin: 0;
 }
 
+/*
 #content{
  
 }
+*/
 
 #bottom{
   height: auto;
@@ -31,6 +33,4 @@
   top: 0;
   left: 0;
   margin: 5% 10% 0 10%;
-  width: 80%;
-  height: 80%;
 }
