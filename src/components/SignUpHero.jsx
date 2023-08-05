@@ -13,7 +13,7 @@ export default function SignUpHero() {
             <h1 className="mb-5 text-5xl font-bold">Interesse geweckt?</h1>
             <p className="mb-5">
               Werde noch heute Mitglied und öffne die Türen der Selbständigkeit.
-              Schreib mir einfach ein Nachricht, mehr brauchts nicht!
+              Schreib mir einfach eine Nachricht, mehr brauchts nicht!
             </p>
             <br></br>
             <button>
