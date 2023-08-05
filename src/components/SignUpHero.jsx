@@ -17,7 +17,7 @@ export default function SignUpHero() {
             </p>
             <br></br>
             <button>
-              <a href="https://wa.me/0041782580971?text=Hi%20Viktor%21%20Ich%20interessiere%20mich%20f%C3%BCr%20dein%20Business%20und%20m%C3%B6chte%20auch%20einsteigen.%20Erz%C3%A4hl%20mir%20mehr%21%20">
+              <a href="https://wa.me/41782580971?text=Hi%20Viktor%21%20Ich%20interessiere%20mich%20f%C3%BCr%20dein%20Business%20und%20m%C3%B6chte%20auch%20einsteigen.%20Erz%C3%A4hl%20mir%20mehr%21%20">
                 <img
                   alt="Chat on WhatsApp"
                   src="WhatsAppButtonGreenLarge.svg"
