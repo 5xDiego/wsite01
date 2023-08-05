@@ -4,7 +4,7 @@ export default function SignUpHero() {
       <div
         className="hero h-96 w-4/5 rounded"
         style={{
-          backgroundImage: "url(/stockImg.jpg)",
+          backgroundImage: "url(stockImg.jpg)",
         }}
       >
         <div className="hero-overlay bg-opacity-60"></div>
