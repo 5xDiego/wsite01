@@ -18,21 +18,19 @@ function App() {
               className="w-4/5 h-4/5"
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/aQ6xXHn-Zn8"
+              src="https://www.youtube.com/embed/FokrwLIKs0M"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             ></iframe>
         </div>
         <br></br>
-        <div className="divider"></div> 
         <br></br>
-        <div className="hero w-full h-auto">
+        <div className="hero w-full h-auto mt-40">
           <SignUpHero />
         </div>
-        <br></br>
-        <div className="divider mb-40"></div> 
-        <div className="hero w-full h-auto">
+        <br></br> 
+        <div className="hero w-full h-auto mt-40">
           <FAQ />
         </div>
         <div className="divider mt-40"></div> 
